@@ -1,0 +1,15 @@
+{
+  "name": "practicar-spa---multipaginas",
+  "version": "1.0.0",
+  "description": "Practicando el cambio de paginas en un SPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "SPA"
+  ],
+  "author": "Jeison Cabarcas",
+  "license": "MIT"
+}
