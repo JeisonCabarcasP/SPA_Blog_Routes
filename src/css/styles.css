@@ -1,0 +1,97 @@
+.jumbotron{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    /* background-image: url('/assets/img/banner.jpg'); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+main{
+    margin-top: 50px;
+}
+.jumbotron section{
+    display: grid;
+    grid-row: 2;
+    margin-top: auto;
+    justify-items: center;
+}
+.card-group .card-title{
+    padding: 15px 50px;
+    left: calc(50%);
+    text-align: center;
+    color:#00bcd4;
+}
+.card-group .img-cursos{
+    padding: 10px;
+    width: 100%;
+    height:20rem;
+    border-radius: 25px;
+}
+.col p{
+    padding: 15px;
+    margin-bottom: 14px;
+}
+.col button{
+    color: white;
+    margin-left: 15px;
+    padding: 15px;
+}
+.card-group img{
+    width: 100%;
+    height: 14.5rem;
+}
+.container{
+    max-width: 100%;
+}
+.text-muted{
+    margin-top: 115px;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: #f1f1f1;
+}
+.text-muted-contacto{
+    bottom: 0;
+    margin-top: 50px;
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: #f1f1f1;
+}
+.container-cursos{
+    padding: 25px;
+    margin: 0;
+    padding: 0;
+  }
+.card-body h5{
+    color:#00bcd4;
+}
+.card-body a{
+   background-color: #00bcd4;
+   color: white;
+}
+.card-body img{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 15px;
+}
+.main-contacto{
+    width: 100%;
+    margin: 10px;
+}
+.main-contacto .main-contacto-form {
+    margin: 25px;
+}
+.col p{
+    padding: 25px;
+    text-align: justify;
+}
+
+.main-form div{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.main-form .btn {
+    background-color: #00bcd4;
+    color: white;
+}
